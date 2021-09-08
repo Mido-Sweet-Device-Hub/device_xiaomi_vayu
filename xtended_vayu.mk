@@ -16,6 +16,7 @@ $(call inherit-product, device/xiaomi/vayu/device.mk)
 
 # Xtended Stuff
 XTENDED_BUILD_TYPE := UnOfficial
+XTENDED_BUILD_MAINTAINER := Pratyaksh.Bharadwaj
 TARGET_GAPPS_ARCH := arm64
 
 # Device Identifier, This should come after all inclusions
